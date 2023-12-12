@@ -1,0 +1,7 @@
+.area-titulo {
+  margin: 20px auto;
+}
+.area-titulo .btn-t {
+  display: flex;
+  justify-content: end;
+}
